@@ -1,6 +1,5 @@
-venv
+.venv
 .mypy_cache
-.log
 # Django #
 *.log
 *.pot
